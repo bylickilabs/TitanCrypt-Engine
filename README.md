@@ -31,7 +31,7 @@ _Modular Encrypted Container Engine for Python — Powered by BYLICKILABS_
 
 📦 Included in Release:
 > SecureArchive v1.0.1
-🔗 [RELEASE](https://github.com/bylickilabs/SecureArchive/releases/download/v1.0.1/v1.0.1.rar)
+🔗 [RELEASE](https://github.com/bylickilabs/SecureArchive/releases/tag/v1.0.1)
 
 > Source Repository v1.0.0:
 🔧 [LINK](https://github.com/bylickilabs/SecureArchive)
