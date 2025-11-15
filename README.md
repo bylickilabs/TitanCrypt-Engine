@@ -17,6 +17,37 @@ _Modular Encrypted Container Engine for Python — Powered by BYLICKILABS_
 
 <br>
 
+### Integration Announcement
+  - TitanCrypt Engine is already fully integrated into SecureArchive.
+  - The latest production release of SecureArchive ships with TitanCrypt Engine as the core encryption and container-management system.
+
+> This ensures:
+- End-to-end encryption using AES-256-GCM
+- Strong password-based security via PBKDF2-SHA-512
+- Verified container integrity across all stored data
+- Seamless extraction, validation and password rotation support
+
+---
+
+📦 Included in Release:
+> SecureArchive v1.0.1
+🔗 [RELEASE](https://github.com/bylickilabs/SecureArchive/releases/download/v1.0.1/v1.0.1.rar)
+
+> Source Repository v1.0.0:
+🔧 [LINK](https://github.com/bylickilabs/SecureArchive)
+
+---
+
+> TitanCrypt Engine now powers the secure container functionality of SecureArchive.
+  - delivering real-world encryption for production environments, backed by continuous development from BYLICKILABS.
+    - “Same engine. More security. Ready for deployment.”
+
+<br>
+
+---
+
+<br>
+
 ## Table of Contents
 
 - [Overview](#overview)
