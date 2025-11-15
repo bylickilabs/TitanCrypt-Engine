@@ -30,8 +30,6 @@ _Modular Encrypted Container Engine for Python — Powered by BYLICKILABS_
 - [Public API](#public-api)
 - [Error Handling](#error-handling)
 - [Best Practices](#best-practices)
-- [Roadmap](#roadmap)
-- [License](#license)
 
 <br>
 
@@ -409,3 +407,4 @@ Good practice for DevOps pipelines:
 verify_container secure.tcrypt
 ```
 
+---
