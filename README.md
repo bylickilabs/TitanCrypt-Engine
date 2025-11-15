@@ -1,4 +1,4 @@
-| ![Build](https://img.shields.io/github/actions/workflow/status/bylickilabs/TitanCrypt-Engine/ci.yml?label=Build&logo=github) | ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) | ![License](https://img.shields.io/badge/License-MIT-success) | ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) | ![Security](https://img.shields.io/badge/Crypto-AES--256--GCM%20%7C%20PBKDF2--SHA512-critical) | ![Maintained](https://img.shields.io/badge/Maintained%20by-BYLICKILABS-%2300aaff) |
+| ![Build](https://img.shields.io/github/actions/workflow/status/bylickilabs/TitanCrypt-Engine/main.yml?label=Build&logo=github) | ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) | ![License](https://img.shields.io/badge/License-MIT-success) | ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) | ![Security](https://img.shields.io/badge/Crypto-AES--256--GCM%20%7C%20PBKDF2--SHA512-critical) | ![Maintained](https://img.shields.io/badge/Maintained%20by-BYLICKILABS-%2300aaff) |
 |---|---|---|---|---|---|
 
 # TitanCrypt Engine  
